@@ -22,18 +22,4 @@ E:\github\public\SonicCellFX>mvn clean install
 3. Run code
 E:\github\public\SonicCellFX\soniccellfx>cd target
 
-Directory of E:\github\public\SonicCellFX\soniccellfx\target
-
-06/12/2022  11:25 PM    <DIR>          .
-06/12/2022  11:25 PM    <DIR>          ..
-06/12/2022  11:25 PM    <DIR>          archive-tmp
-06/12/2022  11:25 PM    <DIR>          classes
-06/12/2022  11:25 PM    <DIR>          generated-sources
-06/12/2022  11:25 PM    <DIR>          maven-archiver
-06/12/2022  11:25 PM    <DIR>          maven-status
-06/12/2022  11:25 PM         1,176,296 soniccellfx-1.0-SNAPSHOT.jar
-06/12/2022  11:25 PM        25,255,696 soniccellfx.jar
-               2 File(s)     26,431,992 bytes
-               7 Dir(s)  294,044,692,480 bytes free
-
 E:\github\public\SonicCellFX\soniccellfx\target>java --module-path D:\javafx\javafx-sdk-18.0.1\lib --add-modules javafx.controls -jar soniccellfx.jar
